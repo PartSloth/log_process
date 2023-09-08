@@ -1,0 +1,19 @@
+{
+  "name": "log_process",
+  "version": "1.0.0",
+  "description": "Studying npm by creating a simple process logger.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PartSloth/log_process.git"
+  },
+  "author": "Louiza Mak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PartSloth/log_process/issues"
+  },
+  "homepage": "https://github.com/PartSloth/log_process#readme"
+}
